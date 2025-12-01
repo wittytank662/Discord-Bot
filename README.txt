@@ -1,3 +1,6 @@
-bot works with a simple command
+Command list:
 
-database set up, no connections
+test - outputs working
+addMoney - adds money!
+balance - shows balance
+daily - every 24 hours claim free money
