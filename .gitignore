@@ -182,3 +182,4 @@ cython_debug/
 
 testbot.py
 userData.py
+.gitattributes
