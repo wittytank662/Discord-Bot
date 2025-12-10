@@ -12,3 +12,4 @@ ping - gives time it takes to ping the bot
 leaderboard - money leaderboard
 coinflip - 50/50 chance to double your wager
 beg - beg for money!
+info - gives info on the developers and testers - will add second page for commands (WIP)
