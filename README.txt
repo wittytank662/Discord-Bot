@@ -15,3 +15,4 @@ beg - beg for money!
 info - page 1: gives info on developers and testers, page 2: lists commands 
 work - work for some money, multiple levels
 card - shows info about the user
+pay - pay someone some money!
