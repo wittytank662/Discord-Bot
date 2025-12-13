@@ -13,3 +13,5 @@ leaderboard - money leaderboard
 coinflip - 50/50 chance to double your wager
 beg - beg for money!
 info - page 1: gives info on developers and testers, page 2: lists commands 
+work - work for some money, multiple levels
+card - shows info about the user
